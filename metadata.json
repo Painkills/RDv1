@@ -1,0 +1,5 @@
+{
+  "name": "Dealership Negotiation Simulator",
+  "description": "A roguelike deckbuilder where you manage a car dealership and negotiate deals with customers.",
+  "requestFramePermissions": []
+}
